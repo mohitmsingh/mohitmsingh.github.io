@@ -1,0 +1,5 @@
+5+ years in SRE/Observability/Production Ops for 24×7 environments.
+Deep hands-on with Dynatrace (services, Davis AI, tagging, baselines, anomaly detection), Grafana (dashboards, alerting), ELK/OpenSearch (pipelines, index strategy, alerts), Log Management Systems, and SNOW/JIRA/Confluence.
+Proven delivery of SLO/SLI programs, alert strategy, and toil reduction.
+Experience implementing alert enrichment, correlation, and routing to ticketing/ChatOps.
+Strong runbook authoring and auto-remediation (shell/Python/Ansible/PowerShell; feature flags, safe-guards).
