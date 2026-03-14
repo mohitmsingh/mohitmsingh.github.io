@@ -1,0 +1,38 @@
+DevOps Engineer - Senior Level
+
+We are seeking an experienced DevOps Engineer to join our cloud infrastructure team. The ideal candidate will have strong expertise in AWS and Azure cloud platforms, with hands-on experience in infrastructure automation, CI/CD pipelines, and container orchestration.
+
+Key Requirements:
+
+Technical Skills:
+- AWS (EC2, S3, Lambda, CloudFormation) - Expert level
+- Azure (AKS, ARM templates, Azure DevOps) - Advanced
+- Docker and Kubernetes - Production experience required
+- Terraform and Infrastructure as Code - 3+ years
+- CI/CD tools: Jenkins, GitHub Actions, Azure DevOps
+- Monitoring: Prometheus, Grafana, ELK stack
+- Scripting: Python, Bash, PowerShell
+- Security: DevSecOps practices, vulnerability scanning
+
+Experience:
+- 5+ years in DevOps or SRE roles
+- Experience with microservices architecture
+- Production deployment and incident management
+- Cloud migration projects
+- Team leadership experience preferred
+
+Responsibilities:
+- Design and implement CI/CD pipelines
+- Manage cloud infrastructure and deployments
+- Implement monitoring and alerting solutions
+- Collaborate with development teams on DevOps best practices
+- Ensure security compliance in deployments
+- Troubleshoot production issues and performance bottlenecks
+- Automate operational processes and workflows
+
+Education:
+- Bachelor's degree in Computer Science or related field
+- Cloud certifications (AWS, Azure) highly valued
+
+Location: Remote/Hybrid
+Salary: Competitive
